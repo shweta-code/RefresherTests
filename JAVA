@@ -1,0 +1,2 @@
+1) Why do we have modCount in Collection classes?
+2) Does Set interface has get method in JAVA? If not, then why?
