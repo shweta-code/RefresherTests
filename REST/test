@@ -1,1 +1,13 @@
 1) Is REST equal to HTTP?
+2) What is REST?
+3) Is it an architectural style?
+4) Is it a standard?
+5) It defines certain principles. What are they?
+5) When we say it is client server based architecture? What does this really mean?
+
+
+
+
+
+REST is architectural style for designing loosely coupled applications.
+Client server based architecture means they can evolve independently.
